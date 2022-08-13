@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "text": "Services",
+    "link": "/services"
+  },
+  {
+    "id": 3,
+    "text": "News",
+    "link": "/news"
+  },
+  {
+    "id": 4,
+    "text": "Log In",
+    "link": "/login"
+  },
+  {
+    "id": 5,
+    "text": "Sign Up",
+    "link": "/signup"
+  }
+]

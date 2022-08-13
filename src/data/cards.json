@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image_path": "../assets/img/1.svg"
+    },
+    {
+        "id": 2,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image_path": "../assets/img/1.svg"
+    },
+    {
+        "id": 3,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image_path": "../assets/img/1.svg"
+    },
+    {
+        "id": 4,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image_path": "../assets/img/1.svg"
+    },
+    {
+        "id": 5,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "image_path": "../assets/img/1.svg"
+    },
+    {
+        "id": 6,
+        "title": "Why do we use it?",
+        "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.'",
+        "image_path": "../assets/img/1.svg"
+    }
+]

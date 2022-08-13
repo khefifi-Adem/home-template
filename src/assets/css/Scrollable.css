@@ -1,0 +1,9 @@
+.cards {
+  display: flex;
+  padding: 25px 0;
+  list-style: none;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  border-left: 20px solid  gray;
+  border-right: solid 20px gray;
+}

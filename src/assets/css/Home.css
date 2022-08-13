@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&display=swap');
+
+
+.home-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: fit-content;
+    background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+    position: relative;
+}
+
+.home-left{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    margin: 0;
+    padding: 0;
+}
+
+.home-title{
+    width: 50%;
+}
+
+.home-title h1{
+    background: -webkit-linear-gradient(blue, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Rubik Dirt';
+    font-weight: 400;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-description{
+    width: 70%;
+}
+
+.home-description p{
+    text-align: center;
+    font-family: 'DynaPuff', cursive;
+    font-weight: 400;
+    font-size: large;
+    text-align: center;
+    line-height: 3rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+
+    min-height: 70vh;
+}
+
+.home-pic{
+    margin-top: 20px;
+    width: 60%;
+}
+
+.home-right:active{
+    right: 0;
+}
+
+@media (max-width: 768px) {
+    .home-container{
+        flex-direction: column-reverse;
+    }
+
+    .home-left{
+        width: 100%;
+    }
+
+    .home-right{
+        width: 100%;
+    }
+}
+
+.scrollable{
+    width: 70%;
+    height: 50vh;
+}
+
